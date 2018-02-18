@@ -7,13 +7,13 @@ The program outputs downloaded files to the local downloads folder (not to be co
 Lots of debugging statements have been commented out. 
 Feel free to uncomment them in your clone if you want to troubleshoot something or just know what it's doing.
 
-##Compile
+## Compile
 Mac
 * `javac -cp bin:bin/jsoup-1.11.1.jar -d bin GeorgiaElectionResultsScraper.java`
 Windows [unverified]
 * `javac -cp bin;bin\jsoup-1.11.1.jar; -d bin GeorgiaElectionResultsScraper.java`
 
-##Run
+## Run
 Mac
 * `java -cp bin:bin/jsoup-1.11.1.jar GeorgiaElectionResultsScraper`
 Windows [unverified]
